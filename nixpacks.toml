@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ['...', 'taglib']
+
+[phases.install]
+nixPkgs = ['...', 'taglib']
+
+[phases.build]
+nixPkgs = ['...', 'taglib']
